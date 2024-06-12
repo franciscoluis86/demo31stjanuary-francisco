@@ -1,4 +1,4 @@
-digraph G {
+diagraph G {
   rankdir = "RL";
   node [shape = rect, fontname = "sans-serif"];
   "data.aws_ami.amzlinux2" [label="data.aws_ami.amzlinux2"];
